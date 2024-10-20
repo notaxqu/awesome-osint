@@ -226,6 +226,8 @@ algorithms, knowledgebase and AI technology.
 * [paste.ee](https://Paste.ee)
 * [paste.kde](https://Paste.kde.org)
 * [Rentry](https://rentry.co/)
+* [katbin](https://katb.in/)
+  
 
 
 ## [↑](#-table-of-contents) Code Search
